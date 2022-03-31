@@ -1,7 +1,6 @@
 # SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images
 The code is for subtask 1 of [SemEval-2021 Task 6](https://propaganda.math.unipd.it/semeval2021task6/index.html).
 
-------
 ## Installation
 Run `pip install -r requirements.txt` to install necessary packages to run predictions. 
 
@@ -9,7 +8,6 @@ And the packages used for preprocessing is in `preprocess_requirements.txt`. The
 
 The code is developed in Windows, but it should be able to run on most operating system.
 
-------
 ## Usage
 Run the following code to make prediction:
 ``python algorithm.run <model> <out_path> [--augment] [--epoch EPOCH]``
