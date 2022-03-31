@@ -1,0 +1,5 @@
+nlpaug>=1.1.10
+nltk>=3.7
+requests>=2.27.1
+sentencepiece>=0.1.96
+tagme>=0.1.3
